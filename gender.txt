@@ -1,4 +1,4 @@
- gen_id 	      gen_title
+gen_id	gen_title
 1001	 Action
 1002	 Adventure
 1003	 Animation

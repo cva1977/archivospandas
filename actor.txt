@@ -1,4 +1,4 @@
-act_id 	act_fname	      act_lname       	act_gender
+act_id	act_fname	act_lname	act_gender
 101	 James                	 Stewart              	 M
 102	 Deborah              	 Kerr                 	 F
 103	 Peter                	 OToole               	 M

@@ -1,4 +1,4 @@
-act_id 	 mov_id 	              role
+act_id	mov_id	role
 101	901	 John Scottie Ferguson
 102	902	 Miss Giddens
 103	903	 T.E. Lawrence

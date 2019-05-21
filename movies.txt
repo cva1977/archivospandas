@@ -1,4 +1,4 @@
-mov_id 	                     mov_title                      	 mov_year 	 mov_time 	    mov_lang     	 mov_dt_rel 	 mov_rel_country	genero
+mov_id	mov_title	mov_year	mov_time	mov_lang	mov_dt_rel	mov_rel_country	genero
 901	 Vertigo                                            	1958	128	 English         	 1958-08-24 	 UK	1010
 902	 The Innocents                                      	1961	100	 English         	 1962-02-19 	 SW	1008
 903	 Lawrence of Arabia                                 	1962	216	 English         	 1962-12-11 	 UK	1002
